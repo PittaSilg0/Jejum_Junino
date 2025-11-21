@@ -7,7 +7,7 @@ public class PlayerMovement : MonoBehaviour
     public Vector3 initialPosition = new Vector3(0f, -4f, 0f); // Posição de Início (ajuste na Unity)
 
     private Rigidbody2D rb;
-    private Vector2 movement;
+    private Vector2 movement; // oi
 
     void Start()
     {
